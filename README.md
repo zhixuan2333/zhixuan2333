@@ -1,4 +1,4 @@
-## Hi there, I'm [zhixuan](www.zhixuan.tk)
+## Hi there, I'm [zhixuan](https://www.zhixuan.tk)
 
 Hi, I'm zhixuan.
 
