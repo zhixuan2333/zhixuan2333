@@ -1,6 +1,5 @@
-# Hi there, I'm [zhixuan](https://www.zhixuan.tk)
+# Hi there, I'm [zhixuan](https://www.zhixuan.tk).
 
-## Hi, I'm zhixuan.
 
 - 📫 Ping me by [Email](mailto:jinzhixuan666@gmail.com)
 
