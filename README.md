@@ -1,7 +1,7 @@
 # Hi there, I'm [zhixuan](https://zhixuan666.github.io/).
 
 
-- 📫 Ping me by [Email](mailto:jinzhixuan666@gmail.com)
+- 📫 Ping me by [Email](mailto:59254886+zhixuan2333@users.noreply.github.com)
 
 
 ![zhixuan666's github stats](https://github-readme-stats.vercel.app/api?username=zhixuan2333&theme=vue&show_icons=true)
