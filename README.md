@@ -1,4 +1,4 @@
-# Hi there, I'm [zhixuan](https://zhixuan666.github.io/).
+# Hi there, I'm [zhixuan](https://zhixuan2333.github.io/).
 
 
 - 📫 Ping me by [Email](mailto:59254886+zhixuan2333@users.noreply.github.com)
