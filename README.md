@@ -6,4 +6,4 @@
 
 ![zhixuan666's github stats](https://github-readme-stats.vercel.app/api?username=zhixuan2333&theme=vue&show_icons=true)
 
-![snake gif](https://github.com/zhixuan666/zhixuan666/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/zhixuan2333/zhixuan2333/blob/output/github-contribution-grid-snake.gif)
