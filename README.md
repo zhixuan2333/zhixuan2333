@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./ccna.png" width="256"></td>
-    <td valign="top"><img src="./github-foundations.png" width="256"></td>
+    <td valign="top"><img src="./ccna.png" width="128"></td>
+    <td valign="top"><img src="./github-foundations.png" width="128"></td>
   </tr>
 </table>
