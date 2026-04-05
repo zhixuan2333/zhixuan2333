@@ -2,12 +2,9 @@
 
 ## 💬 Worked skill for me
 
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡GoLang
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡TypeScript / JavaScript
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Arduino
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Docker
+⁢⁣⁡Lang: GoLang, TypeScript / JavaScript, ⁢⁣⁡C / C++, Arduino, Docker, rust
+
+MCU: esp32c6, esp32s6, stm32f4, nrf52, nrf54
 
 
 ## 📮 How to ping me
