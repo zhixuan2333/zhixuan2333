@@ -4,8 +4,7 @@
 
 ⁢⁣⁡Lang: GoLang, TypeScript / JavaScript, ⁢⁣⁡C / C++, Arduino, Docker, rust
 
-MCU: esp32c6, esp32s3, stm32f4, nrf52, nrf54
-
+MCU: esp32c6, esp32s3, stm32f4, nrf52, nrf54, ch32v003
 
 ## 📮 How to ping me
 
